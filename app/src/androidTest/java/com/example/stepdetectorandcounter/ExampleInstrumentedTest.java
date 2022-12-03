@@ -1,4 +1,4 @@
-package com.moutamid.stepdetectorandcounter;
+package com.example.stepdetectorandcounter;
 
 import android.content.Context;
 
